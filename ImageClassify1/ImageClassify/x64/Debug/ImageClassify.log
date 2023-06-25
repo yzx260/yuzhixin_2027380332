@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  ImageClassify.cpp
+  ImageClassifyDlg.cpp
+D:\myself\ImageClassify1\ImageClassify1\ImageClassify\ImageClassifyDlg.cpp(295,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\myself\ImageClassify1\ImageClassify1\ImageClassify\ImageClassifyDlg.cpp(337,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ImageInterface.cpp
+  IpcClient.cpp
+  TaskManager.cpp
+D:\myself\ImageClassify1\ImageClassify1\ImageClassify\TaskManager.cpp(75,62): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+D:\myself\ImageClassify1\ImageClassify1\ImageClassify\ImageClassifyDlg.cpp(352): warning C4715: “ThreadStartClassifyDir”: 不是所有的控件路径都返回值
+json_vc71_libmdd.lib(json_value.obj) : warning LNK4099: 未找到 PDB“”(使用“json_vc71_libmdd.lib(json_value.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+json_vc71_libmdd.lib(json_reader.obj) : warning LNK4099: 未找到 PDB“”(使用“json_vc71_libmdd.lib(json_reader.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+json_vc71_libmdd.lib(json_writer.obj) : warning LNK4099: 未找到 PDB“”(使用“json_vc71_libmdd.lib(json_writer.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  ImageClassify.vcxproj -> D:\myself\ImageClassify1\ImageClassify1\x64\Debug\ImageClassify.exe
